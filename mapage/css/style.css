@@ -32,9 +32,9 @@
 .navbar-custom .nav-item.active .nav-link,
 .navbar-custom .nav-item:hover .nav-link {
   color: #ffffff;
-  background-color: #96c9f1; /* add background-color to active links */
+  background-color: #aabdcd; /* add background-color to active links */
 }.navbar-custom {
-  background-color: #96c9f1;
+  background-color: #aabdcd;
 }
 
 /* change the brand and text color */
